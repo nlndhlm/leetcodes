@@ -1,4 +1,4 @@
-# accepted solution to problem 1 - two sum (easy)
+# Leetcode 1 - Two Sum [Easy]
 
 nums = [2, 7, 11, 15]
 target = 9
